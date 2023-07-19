@@ -260,38 +260,38 @@ const PokedexPage = () => {
                     );
                   })
                 : // Else, Display the entire pokemon list
+                // Another comment
                   pokemon_objects.map((pokemon, index) => {
                     return (
                       <>
-                         <div
-                        className={`flex w-full gap-x-10 py-2 cursor-pointer items-center border-rose-500 border- ${
-                          selectedPokemon.name === pokemon.name
-                            ? "m-4 p-1 rounded-full max-w-2xl bg-gradient-to-r pastel from-zinc-700 via-zinc-800 to-zinc-900 border-4 border-rose-500"
-                            : ""
-                        }`}
-                        onClick={() => {
-                          handleSelect(pokemon);
-                        }}
-                        key={index}
-                      >
+                        <div
+                          className={`flex w-full gap-x-10 py-2 cursor-pointer items-center border-rose-500 border- ${
+                            selectedPokemon.name === pokemon.name
+                              ? "m-4 p-1 rounded-full max-w-2xl bg-gradient-to-r pastel from-zinc-700 via-zinc-800 to-zinc-900 border-4 border-rose-500"
+                              : ""
+                          }`}
+                          onClick={() => {
+                            handleSelect(pokemon);
+                          }}
+                          key={index}
+                        >
+                          <img
+                            className=" max-h-12 pl-8"
+                            src={`https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/${pokemon.index}.png`}
+                            alt=""
+                          />
 
-                        <img
-                          className=" max-h-12 pl-8"
-                          src={`https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/${pokemon.index}.png`}
-                          alt=""
-                        />
+                          <div className="tracking-wide pl-8">
+                            no.{pokemon.index.toString().padStart(3, "0")}
+                          </div>
 
-                        <div className="tracking-wide pl-8">
-                          no.{pokemon.index.toString().padStart(3, "0")}
-                        </div>
+                          <div className="uppercase tracking-wider w-60">
+                            {pokemon.name}
+                          </div>
 
-                        <div className="uppercase tracking-wider w-60">
-                          {pokemon.name}
-                        </div>
-
-                        <div className="tracking-wider w-32">
-                          sr {pokemon.SR}
-                        </div>
+                          <div className="tracking-wider w-32">
+                            sr {pokemon.SR}
+                          </div>
                         </div>
                       </>
                     );
