@@ -1,0 +1,403 @@
+{
+    "01": {
+      "name": "Work Up",
+      "cost": "₽8,000"
+    },
+    "02": {
+      "name": "Dragon Claw",
+      "cost": "₽6,000"
+    },
+    "03": {
+      "name": "Psyshock",
+      "cost": "₽6,000"
+    },
+    "04": {
+      "name": "Calm Mind",
+      "cost": "₽5,500"
+    },
+    "05": {
+      "name": "Roar",
+      "cost": "₽4,000"
+    },
+    "06": {
+      "name": "Toxic",
+      "cost": "₽8,000"
+    },
+    "07": {
+      "name": "Hail",
+      "cost": "₽8,000"
+    },
+    "08": {
+      "name": "Bulk Up",
+      "cost": "₽6,000"
+    },
+    "09": {
+      "name": "Venoshock",
+      "cost": "₽5,200"
+    },
+    "10": {
+      "name": "Hidden Power",
+      "cost": "₽5,200"
+    },
+    "11": {
+      "name": "Sunny Day",
+      "cost": "₽4,400"
+    },
+    "12": {
+      "name": "Taunt",
+      "cost": "₽4,400"
+    },
+    "13": {
+      "name": "Ice Beam",
+      "cost": "₽7,200"
+    },
+    "14": {
+      "name": "Blizzard",
+      "cost": "₽8,400"
+    },
+    "15": {
+      "name": "Hyper Beam",
+      "cost": "₽10,800"
+    },
+    "16": {
+      "name": "Light Screen",
+      "cost": "₽4,400"
+    },
+    "17": {
+      "name": "Protect",
+      "cost": "₽8,000"
+    },
+    "18": {
+      "name": "Rain Dance",
+      "cost": "₽4,400"
+    },
+    "19": {
+      "name": "Roost",
+      "cost": "₽5,600"
+    },
+    "20": {
+      "name": "Safeguard",
+      "cost": "₽6,000"
+    },
+    "21": {
+      "name": "Frustration",
+      "cost": "₽3,600"
+    },
+    "22": {
+      "name": "Solar Beam",
+      "cost": "₽8,800"
+    },
+    "23": {
+      "name": "Smack Down",
+      "cost": "₽4,400"
+    },
+    "24": {
+      "name": "Thunderbolt",
+      "cost": "₽7,200"
+    },
+    "25": {
+      "name": "Thunder",
+      "cost": "₽8,400"
+    },
+    "26": {
+      "name": "Earthquake",
+      "cost": "₽8,000"
+    },
+    "27": {
+      "name": "Return",
+      "cost": "₽5,200"
+    },
+    "28": {
+      "name": "Leech Life",
+      "cost": "₽6,000"
+    },
+    "29": {
+      "name": "Psychic",
+      "cost": "₽7,200"
+    },
+    "30": {
+      "name": "Shadow Ball",
+      "cost": "₽6,000"
+    },
+    "31": {
+      "name": "Brick Break",
+      "cost": "₽5,600"
+    },
+    "32": {
+      "name": "Double Team",
+      "cost": "₽7,000"
+    },
+    "33": {
+      "name": "Reflect",
+      "cost": "₽8,000"
+    },
+    "34": {
+      "name": "Sludge Wave",
+      "cost": "₽7,200"
+    },
+    "35": {
+      "name": "Flamethrower",
+      "cost": "₽7,200"
+    },
+    "36": {
+      "name": "Sludge Bomb",
+      "cost": "₽7,200"
+    },
+    "37": {
+      "name": "Sandstorm",
+      "cost": "₽8,400"
+    },
+    "38": {
+      "name": "Fire Blast",
+      "cost": "₽8,400"
+    },
+    "39": {
+      "name": "Rock Tomb",
+      "cost": "₽5,200"
+    },
+    "40": {
+      "name": "Aerial Ace",
+      "cost": "₽5,200"
+    },
+    "41": {
+      "name": "Torment",
+      "cost": "₽6,000"
+    },
+    "42": {
+      "name": "Facade",
+      "cost": "₽5,600"
+    },
+    "43": {
+      "name": "Flame Charge",
+      "cost": "₽4,400"
+    },
+    "44": {
+      "name": "Rest",
+      "cost": "₽6,000"
+    },
+    "45": {
+      "name": "Attract",
+      "cost": "₽4,000"
+    },
+    "46": {
+      "name": "Thief",
+      "cost": "₽5,200"
+    },
+    "47": {
+      "name": "Low Sweep",
+      "cost": "₽5,200"
+    },
+    "48": {
+      "name": "Round",
+      "cost": "₽5,200"
+    },
+    "49": {
+      "name": "Echoed Voice",
+      "cost": "₽4,000"
+    },
+    "50": {
+      "name": "Overheat",
+      "cost": "₽10,000"
+    },
+    "51": {
+      "name": "Steel Wing",
+      "cost": "₽5,600"
+    },
+    "52": {
+      "name": "Focus Blast",
+      "cost": "₽8,800"
+    },
+    "53": {
+      "name": "Energy Ball",
+      "cost": "₽7,200"
+    },
+    "54": {
+      "name": "False Swipe",
+      "cost": "₽4,000"
+    },
+    "55": {
+      "name": "Scald",
+      "cost": "₽6,000"
+    },
+    "56": {
+      "name": "Fling",
+      "cost": "₽4,500"
+    },
+    "57": {
+      "name": "Charge Beam",
+      "cost": "₽4,400"
+    },
+    "58": {
+      "name": "Sky Drop",
+      "cost": "₽5,200"
+    },
+    "59": {
+      "name": "Brutal Swing",
+      "cost": "₽5,200"
+    },
+    "60": {
+      "name": "Quash",
+      "cost": "₽5,600"
+    },
+    "61": {
+      "name": "Will-O-Wisp",
+      "cost": "₽6,000"
+    },
+    "62": {
+      "name": "Acrobatics",
+      "cost": "₽4,400"
+    },
+    "63": {
+      "name": "Embargo",
+      "cost": "₽5,000"
+    },
+    "64": {
+      "name": "Explosion",
+      "cost": "₽14,000"
+    },
+    "65": {
+      "name": "Shadow Claw",
+      "cost": "₽5,600"
+    },
+    "66": {
+      "name": "Payback",
+      "cost": "₽4,400"
+    },
+    "67": {
+      "name": "Smart Strike",
+      "cost": "₽5,600"
+    },
+    "68": {
+      "name": "Giga Impact",
+      "cost": "₽10,800"
+    },
+    "69": {
+      "name": "Rock Polish",
+      "cost": "₽8,000"
+    },
+    "70": {
+      "name": "Aurora Veil",
+      "cost": "₽2,500"
+    },
+    "71": {
+      "name": "Stone Edge",
+      "cost": "₽8,000"
+    },
+    "72": {
+      "name": "Volt Switch",
+      "cost": "₽5,600"
+    },
+    "73": {
+      "name": "Thunder Wave",
+      "cost": "₽5,000"
+    },
+    "74": {
+      "name": "Gyro Ball",
+      "cost": "₽5,500"
+    },
+    "75": {
+      "name": "Swords Dance",
+      "cost": "₽8,000"
+    },
+    "76": {
+      "name": "Fly",
+      "cost": "₽7,200"
+    },
+    "77": {
+      "name": "Psych Up",
+      "cost": "₽4,500"
+    },
+    "78": {
+      "name": "Bulldoze",
+      "cost": "₽5,200"
+    },
+    "79": {
+      "name": "Frost Breath",
+      "cost": "₽5,200"
+    },
+    "80": {
+      "name": "Rock Slide",
+      "cost": "₽5,600"
+    },
+    "81": {
+      "name": "X-Scissor",
+      "cost": "₽6,000"
+    },
+    "82": {
+      "name": "Dragon Tail",
+      "cost": "₽5,200"
+    },
+    "83": {
+      "name": "Infestation",
+      "cost": "₽2,800"
+    },
+    "84": {
+      "name": "Poison Jab",
+      "cost": "₽6,000"
+    },
+    "85": {
+      "name": "Dream Eater",
+      "cost": "₽8,000"
+    },
+    "86": {
+      "name": "Grass Knot",
+      "cost": "₽6,500"
+    },
+    "87": {
+      "name": "Swagger",
+      "cost": "₽5,000"
+    },
+    "88": {
+      "name": "Sleep Talk",
+      "cost": "₽4,500"
+    },
+    "89": {
+      "name": "U-Turn",
+      "cost": "₽5,600"
+    },
+    "90": {
+      "name": "Substitute",
+      "cost": "₽7,500"
+    },
+    "91": {
+      "name": "Flash Cannon",
+      "cost": "₽6,000"
+    },
+    "92": {
+      "name": "Trick Room",
+      "cost": "₽5,000"
+    },
+    "93": {
+      "name": "Wild Charge",
+      "cost": "₽7,200"
+    },
+    "94": {
+      "name": "Surf",
+      "cost": "₽7,200"
+    },
+    "95": {
+      "name": "Snarl",
+      "cost": "₽4,400"
+    },
+    "96": {
+      "name": "Nature Power",
+      "cost": "₽5,000"
+    },
+    "97": {
+      "name": "Dark Pulse",
+      "cost": "₽6,000"
+    },
+    "98": {
+      "name": "Waterfall",
+      "cost": "₽6,000"
+    },
+    "99": {
+      "name": "Dazzling Gleam",
+      "cost": "₽6,000"
+    },
+    "100": {
+      "name": "Confide",
+      "cost": "₽4,400"
+    }
+  }
+  
